@@ -1,0 +1,26 @@
+{
+  "초급 전사": {
+    "name": "초급 전사",
+    "description": "적에게 입힌 데미지 1,000",
+    "goal": 10,
+    "count": 5005,
+    "date": "2024-08-22T10:42:03.356Z",
+    "completed": true
+  },
+  "초급 힐러": {
+    "name": "초급 힐러",
+    "description": "회복한 체력 1,000",
+    "goal": 1000,
+    "count": 307,
+    "date": null,
+    "completed": false
+  },
+  "첫 시작": {
+    "name": "첫 시작",
+    "description": "게임 1회 완료",
+    "goal": 1,
+    "count": 0,
+    "date": null,
+    "completed": false
+  }
+}
